@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/veggiekingdom/static/css/main.46157365.css",
+    "main.js": "/veggiekingdom/static/js/main.5872be82.js",
+    "static/media/about-img.jpg": "/veggiekingdom/static/media/about-img.c2df2a6247535a71c8b0.jpg",
+    "static/media/home-banner-image.png": "/veggiekingdom/static/media/home-banner-image.35769b2d17360a023826.png",
+    "static/media/veggie-Simple.jpg": "/veggiekingdom/static/media/veggie-Simple.e20e7bdc8f347a459789.jpg",
+    "static/media/veggie.jpg": "/veggiekingdom/static/media/veggie.eac577339edf73da4465.jpg",
+    "static/media/veggie-onion.jpg": "/veggiekingdom/static/media/veggie-onion.914c4fc44a82400727e5.jpg",
+    "static/media/home-banner-background.png": "/veggiekingdom/static/media/home-banner-background.585600da7ff85661555e.png",
+    "index.html": "/veggiekingdom/index.html",
+    "main.46157365.css.map": "/veggiekingdom/static/css/main.46157365.css.map",
+    "main.5872be82.js.map": "/veggiekingdom/static/js/main.5872be82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46157365.css",
+    "static/js/main.5872be82.js"
+  ]
+}
